@@ -55,3 +55,5 @@ GIT — это самая популярная распределенная си
 + git checkout branch_name - переход к другой ветке репозитория
 
 + git merge branch_name - слияние веток репозитория
+
+![konflikt.jpg](konflikt.png)
