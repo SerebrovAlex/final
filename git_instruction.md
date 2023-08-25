@@ -57,3 +57,8 @@ GIT — это самая популярная распределенная си
 + git merge branch_name - слияние веток репозитория
 
 ![konflikt.png](konflikt.png)
+
++ ![]() - добавлене изображения
+
+Например:
+![kotik.jpg](kotik.jpg)
